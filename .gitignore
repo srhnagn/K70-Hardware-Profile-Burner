@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+*.dSYM
+k70_burner
+build/
+.build/
